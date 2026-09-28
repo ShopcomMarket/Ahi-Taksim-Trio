@@ -12,7 +12,7 @@ https://www.shopcom.tn/product/ahi-taksim-trio/
 Product Price : 12 $
 
 Payment :
-https://www.shopcom.tn/payment
+https://www.shopcom.tn/payments
 
 Website :
 https://www.shopcom.tn
